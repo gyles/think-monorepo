@@ -1,0 +1,13 @@
+{
+  "name": "think-monorepo",
+  "version": "0.1.0",
+  "description": "Base project for mono repo",
+  "main": "index.js",
+  "repository": "git@github.com:gyles/think-monorepo.git",
+  "author": "Gyles Polloso <gyles.polloso@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "infrastructure"
+  ]
+}
