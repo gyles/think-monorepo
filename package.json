@@ -8,6 +8,8 @@
   "license": "MIT",
   "private": true,
   "workspaces": [
-    "infrastructure"
-  ]
+    "infrastructure",
+    "service-user"
+  ],
+  "devDependencies": {}
 }
