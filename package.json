@@ -8,6 +8,7 @@
   "license": "MIT",
   "private": true,
   "workspaces": [
+    "common",
     "app-angular",
     "infrastructure",
     "service-user"

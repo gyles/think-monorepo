@@ -1,8 +1,8 @@
 {
   "name": "service-user",
-  "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "version": "0.1.0",
+  "description": "Base project for a user service",
+  "author": "Gyles Polloso <gyles.polloso@gmail.com>",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
